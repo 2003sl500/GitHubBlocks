@@ -1,0 +1,40 @@
+.container {
+    background-color: rgba(139, 228, 228, 0.623);
+    width: 1000px;
+    border-top-style: solid;
+    border-width: 5px;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 4em;
+}
+
+img.octocat {
+    height: 200px;
+}
+
+.sections {
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#first {
+    background-color: cornflowerblue;
+}
+
+#second {
+    background-color: firebrick;
+}
+
+#third {
+    background-color: rgb(20, 94, 20);
+}
+
+footer {
+    text-align: center;
+    font-size: 1.5em;
+}
